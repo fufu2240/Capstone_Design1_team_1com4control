@@ -1,2 +1,2 @@
-# Capstone_Design1_team_musigi
-캡스톤 디자인 1 깃허브
+# 캡스톤 디자인 1 팀 뭐시기
+## 팀 이름 미정입니다
