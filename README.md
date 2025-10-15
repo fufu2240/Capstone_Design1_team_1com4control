@@ -34,8 +34,8 @@
 ![캡디 1 간단 기능 흐름도](https://github.com/user-attachments/assets/b273f263-a846-4097-b44b-1bc7813d85a4)    
 <br/><br/><br/>
 ### 상세 - 인프라 플로차트  
+![캡디1 상세 인프라 흐름도](https://github.com/user-attachments/assets/c8bbac8e-bf9d-4868-9fcc-808d4e0ad86f)
 
-![캡디1 상세 인프라 흐름도](https://github.com/user-attachments/assets/9d09183b-48ae-4847-9582-7eaf44d4710a)
-<br/><br/>
+<br/><br/><br/>
 
 # ⚙️사용 기술(예정)
